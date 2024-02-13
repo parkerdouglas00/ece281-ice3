@@ -1,6 +1,13 @@
 # ECE 281 ICE 3: FullAdder with Top Level Design
 
-![Waveform Screenshot](Screenshot 2024-02-10 215527.png)
+## Documentation
+No outside help received.
+
+## Waveform Screenshot
+
+![WaveformScreenshot](WaveformScreenshot.png)
+
+## Instructions
 
 **Fork** this repo.
 
